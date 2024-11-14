@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (tags "XW4M-02D1-H1DA ")
   (attr through_hole)
-  (fp_text reference "REF**" (at 1.7653 0 unlocked) (layer "F.SilkS") hide
+  (fp_text reference "REF**" (at 1.778 -2.1336 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 7ec628f2-a75b-47df-b16d-1e07ff4ed328)
   )
