@@ -6,7 +6,7 @@
     (property "Value" "XW4M-12D2-H1DA" (at 0 0 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "xw4m-12d2-h1da:xw4m-12d2-h1da" (at 0 0 0)
+    (property "Footprint" "xw4m-12d20h1da:xw4m-12d2-h1da" (at 0 0 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "XW4M-12D2-H1DA" (at 0 0 0)
