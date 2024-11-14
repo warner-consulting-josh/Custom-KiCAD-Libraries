@@ -68,4 +68,9 @@
   (pad "2" thru_hole circle (at 3.515302 0) (size 1.9812 1.9812) (drill 1.4732) (layers "*.Cu" "*.Mask") (tstamp fb89b176-bb73-4857-880b-413d7f991005))
   (pad "3" thru_hole circle (at -3.484699 1.699999) (size 1.9812 1.9812) (drill 1.4732) (layers "*.Cu" "*.Mask") (tstamp 23d62df4-2440-4994-a34e-7e4d03cdd9e0))
   (pad "4" thru_hole circle (at 7.0153 1.699999) (size 1.9812 1.9812) (drill 1.4732) (layers "*.Cu" "*.Mask") (tstamp d613f1a7-b3a8-4a56-a5af-4e43c804c7cd))
+  (model "${KIPRJMOD}/Warner-Consulting-Libraries/Omron/xw4m-02d1-h1da Step/xw4m-02d1-h1da.stp"
+    (offset (xyz 1.75 0.75 3.175))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
 )
