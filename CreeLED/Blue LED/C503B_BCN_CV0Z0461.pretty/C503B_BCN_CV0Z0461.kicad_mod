@@ -74,4 +74,9 @@
     (stroke (width 0.0254) (type solid)) (fill none) (layer "F.Fab") (tstamp a40aee7d-080b-4f8e-8245-d4035d531ea2))
   (pad "1" thru_hole rect (at -1.27 0) (size 1.27 1.27) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 94014d61-ac71-4700-9b0c-c28076ec9ed4))
   (pad "2" thru_hole circle (at 1.27 0) (size 1.27 1.27) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp b7931202-6ef9-43e7-a017-0d3cddb3199b))
+  (model "C:/Users/Josh/Dropbox/JOSHUA/Warner Consulting/Collet Autofeed/Warner-Consulting-Libraries/CreeLED/Blue LED/C503B_BCN_CV0Z0461 Step/C503B_BCN_CV0Z0461.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 180))
+  )
 )
