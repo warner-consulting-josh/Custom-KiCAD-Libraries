@@ -41,7 +41,7 @@
   (pad "2" thru_hole circle (at -3.81 1.27) (size 1.1 1.1) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 6c3cdeae-1056-467b-8a07-c49d76edbc1e))
   (pad "3" thru_hole circle (at 3.81 1.27) (size 1.1 1.1) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 95b22d9b-d170-4603-9ded-ac4941072b67))
   (pad "4" thru_hole circle (at 3.81 -1.27) (size 1.1 1.1) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp d1ba8095-6886-442f-8e39-ffe5dcb83719))
-  (model "PC12311NSZ1B.stp"
+  (model "C:/Users/Josh/Dropbox/JOSHUA/Warner Consulting/Collet Autofeed/Warner-Consulting-Libraries/PC12311NSZ1B/PC12311NSZ1B Step/PC12311NSZ1B.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
